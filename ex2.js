@@ -21,7 +21,7 @@ switch (operacao) {
         resultado = n1 / n2;
         break;
     default:
-        document.write("opção invalida")
+        document.write("opção invalida ")
         break;
 }
 
